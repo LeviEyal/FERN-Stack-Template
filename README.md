@@ -13,25 +13,22 @@
 git clone https://github.com/LeviEyal/FERN-Stack-Template.git
 ```
 
-2. Open two terminals
-3. Install dependencies
-On the first terminal:
+2. Open two terminals - one for the server and one for the client
+3. Install dependencies on the server terminal
 ```python
 cd FERN-Stack-Template/backend
 npm install
 ```
-On the second terminal:
+4. Install dependencies on the client terminal
 ```python
 cd FERN-Stack-Template/frontend
 npm install
 ```
-4. Run the server
-On the first terminal:
+4. Run the server on the server terminal
 ```python
 npm start
 ```
-5. Run the frontend
-On the second terminal:
+5. Run the frontend app on the client terminal
 ```python
 npm start
 ```
