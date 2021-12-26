@@ -1,15 +1,15 @@
 import fireabse from "firebase-admin";
 
-const firebaseConfig = {
-  apiKey
-  authDomain
-  databaseURL
-  projectId
-  storageBucket
-  messagingSenderId
-  appId
-  measurementId
-};
+// const firebaseConfig = {
+//   apiKey
+//   authDomain
+//   databaseURL
+//   projectId
+//   storageBucket
+//   messagingSenderId
+//   appId
+//   measurementId
+// };
 
 /* init firebase */
 fireabse.initializeApp({
