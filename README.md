@@ -1,6 +1,9 @@
 # FERN Stack template - An entry point
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LeviEyal/FERN-Stack-Template)
 
+<!-- in progess lable -->
+[![in progress](https://img.shields.io/badge/in%20progress-red.svg)]()
+
 ## FERN stands for:
 
 * F - Fireabase Database 
