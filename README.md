@@ -12,22 +12,44 @@
 ```python
 git clone https://github.com/LeviEyal/FERN-Stack-Template.git
 ```
-2. Install dependencies
-```python
-cd FERN-Stack-Template
-cd backend
-npm install
-cd ../frontend
-npm install
-```
-3. Run the server
+
+2. Open two terminals
+3. Install dependencies
+On the first terminal:
 ```python
 cd FERN-Stack-Template/backend
-npm start
+npm install
 ```
-4. Run the frontend
+On the second terminal:
 ```python
 cd FERN-Stack-Template/frontend
+npm install
+```
+4. Run the server
+On the first terminal:
+```python
 npm start
 ```
-5. Open the browser and go to http://localhost:3000
+5. Run the frontend
+On the second terminal:
+```python
+npm start
+```
+6. Open the browser and go to http://localhost:3000
+
+# Dependencies
+* [Node.js](https://nodejs.org/en/)
+* [Express](https://expressjs.com/)
+* [React](https://reactjs.org/)
+* [Firebase Admin SDK](https://firebase.google.com/docs/admin/setup#initialize_the_sdk)
+* [Firebase Database](https://firebase.google.com/docs/database/web/read-and-write)
+
+# License
+MIT
+
+# Contributing
+* Fork the project on [GitHub](sd)
+* Create a new branch
+* Commit your changes
+* Push your branch to GitHub
+* Open a pull request
