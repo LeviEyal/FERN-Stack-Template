@@ -3,10 +3,10 @@
 
 ## FERN stands for:
 
-* F - Fireabse
-* E - express server
+* F - Fireabase Database 
+* E - Express.JS server
 * R - React frontend app
-* N - Node.js
+* N - Node.JS backend app
 
 # HOW TO USE
 1. Clone the project
@@ -42,11 +42,9 @@ npm start
 * [Firebase Admin SDK](https://firebase.google.com/docs/admin/setup#initialize_the_sdk)
 * [Firebase Database](https://firebase.google.com/docs/database/web/read-and-write)
 
-# License
-MIT
 
 # Contributing
-* Fork the project on [GitHub](sd)
+* Fork the project
 * Create a new branch
 * Commit your changes
 * Push your branch to GitHub
